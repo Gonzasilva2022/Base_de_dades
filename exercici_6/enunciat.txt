@@ -1,0 +1,6 @@
+- Exercici 6
+
+Fes la següent operació sobre la base de dades acabada de crear:  
+
+Elimina la pel·lícula "La Gran Familia Española" de la base de dades.
+
